@@ -1,0 +1,7 @@
+C:\Users\Cristian\Documents\Faculdade\Alura\index.html\index.html\bin\index.html.dll.config
+C:\Users\Cristian\Documents\Faculdade\Alura\index.html\index.html\bin\index.html.dll
+C:\Users\Cristian\Documents\Faculdade\Alura\index.html\index.html\bin\index.html.pdb
+C:\Users\Cristian\Documents\Faculdade\Alura\index.html\index.html\obj\Debug\index.html.csprojAssemblyReference.cache
+C:\Users\Cristian\Documents\Faculdade\Alura\index.html\index.html\obj\Debug\index.html.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Documents\Faculdade\Alura\index.html\index.html\obj\Debug\index.html.dll
+C:\Users\Cristian\Documents\Faculdade\Alura\index.html\index.html\obj\Debug\index.html.pdb
